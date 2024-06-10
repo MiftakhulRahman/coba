@@ -1018,7 +1018,7 @@ footer hr {
 	}
 
 	.nav-mobile .nav-item p {
-		font-size: 1.2rem;
+		font-size: 1rem;
 		color: var(--satu);
 	}
 
@@ -1046,6 +1046,9 @@ footer hr {
 		padding: 10px 15px;
 	}
 
+	nav .right {
+		gap: 15px;
+	}
 	/* Akhir Nav */
 
 	/* Awal Hero */
